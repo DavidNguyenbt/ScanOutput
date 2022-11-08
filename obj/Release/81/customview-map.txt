@@ -1,0 +1,85 @@
+@string/appbar_scrolling_view_behavior;obj\Release\81\res\layout\checkoutput.xml
+@string/appbar_scrolling_view_behavior;obj\Release\81\res\layout\login.xml
+@string/appbar_scrolling_view_behavior;obj\Release\81\res\layout\packinggeneral.xml
+adaptive-icon;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidhud.ProgressWheel;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingprogress.xml
+attr;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\values\attrs.xml
+background;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Release\81\res\layout\authoritylogin.xml
+Button;obj\Release\81\res\layout\camerascan.xml
+Button;obj\Release\81\res\layout\changepw.xml
+Button;obj\Release\81\res\layout\checkoutput.xml
+Button;obj\Release\81\res\layout\login.xml
+Button;obj\Release\81\res\layout\packinggeneral.xml
+Button;obj\Release\81\res\layout\serverconfig.xml
+cache-path;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\21\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Release\81\res\values\colors.xml
+color;obj\Release\81\res\values\ic_launcher_background.xml
+corners;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbg.xml
+corners;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbgdark.xml
+CheckBox;obj\Release\81\res\layout\packinggeneral.xml
+CheckBox;obj\Release\81\res\layout\serverconfig.xml
+declare-styleable;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\values\attrs.xml
+EditText;obj\Release\81\res\layout\authoritylogin.xml
+EditText;obj\Release\81\res\layout\changepw.xml
+EditText;obj\Release\81\res\layout\checkoutput.xml
+EditText;obj\Release\81\res\layout\login.xml
+EditText;obj\Release\81\res\layout\packinggeneral.xml
+EditText;obj\Release\81\res\layout\serverconfig.xml
+external-cache-path;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\21\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\21\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\22\jl\res\layout\zxingscanneractivitylayout.xml
+FrameLayout;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\22\jl\res\layout\zxingscannerfragmentlayout.xml
+gradient;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbg.xml
+gradient;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbgdark.xml
+HorizontalScrollView;obj\Release\81\res\layout\serverconfig.xml
+ImageView;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingimage.xml
+item;obj\Release\81\res\values\styles.xml
+LinearLayout;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loading.xml
+LinearLayout;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingimage.xml
+LinearLayout;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingprogress.xml
+LinearLayout;obj\Release\81\res\layout\camerascan.xml
+ListView;obj\Release\81\res\layout\checkoutput.xml
+ListView;obj\Release\81\res\layout\packinggeneral.xml
+paths;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\21\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loading.xml
+RelativeLayout;obj\Release\81\res\layout\authoritylogin.xml
+RelativeLayout;obj\Release\81\res\layout\customlistitem.xml
+RelativeLayout;obj\Release\81\res\layout\changepw.xml
+RelativeLayout;obj\Release\81\res\layout\checkoutput.xml
+RelativeLayout;obj\Release\81\res\layout\jobnpoview.xml
+RelativeLayout;obj\Release\81\res\layout\login.xml
+RelativeLayout;obj\Release\81\res\layout\packinggeneral.xml
+RelativeLayout;obj\Release\81\res\layout\serverconfig.xml
+RelativeLayout;obj\Release\81\res\layout\testdata.xml
+resources;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\0\jl\res\values\strings.xml
+resources;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\values\attrs.xml
+resources;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\values\strings.xml
+resources;obj\Release\81\res\values\colors.xml
+resources;obj\Release\81\res\values\ic_launcher_background.xml
+resources;obj\Release\81\res\values\styles.xml
+resources;obj\Release\81\res\values\strings.xml
+ScrollView;obj\Release\81\res\layout\serverconfig.xml
+shape;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbg.xml
+shape;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\drawable\roundedbgdark.xml
+Spinner;obj\Release\81\res\layout\login.xml
+style;obj\Release\81\res\values\styles.xml
+string;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\0\jl\res\values\strings.xml
+string;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\values\strings.xml
+string;obj\Release\81\res\values\strings.xml
+TextView;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loading.xml
+TextView;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingimage.xml
+TextView;G:\C#\Do an AllianceOne\From AHieu\z. EndlineOutputScan_After - Ver3\EndlineOutputScan\obj\Release\81\lp\2\jl\res\layout\loadingprogress.xml
+TextView;obj\Release\81\res\layout\authoritylogin.xml
+TextView;obj\Release\81\res\layout\camerascan.xml
+TextView;obj\Release\81\res\layout\customlistitem.xml
+TextView;obj\Release\81\res\layout\changepw.xml
+TextView;obj\Release\81\res\layout\checkoutput.xml
+TextView;obj\Release\81\res\layout\jobnpoview.xml
+TextView;obj\Release\81\res\layout\login.xml
+TextView;obj\Release\81\res\layout\packinggeneral.xml
+TextView;obj\Release\81\res\layout\serverconfig.xml
